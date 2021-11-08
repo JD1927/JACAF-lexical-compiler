@@ -1,0 +1,47 @@
+public class Example {
+  var variableA: integer = 3;
+  var variableB: integer = 2;
+  var variableC: integer = 10;
+  var age: integer = 20;
+
+  method sum(): void {
+    print(variableA + variableB)
+  }
+  method subtract(): void {
+    print(variableA - variableB)
+  }
+  method multiply(): void {
+    print(variableA * variableB)
+  }
+  method divide(): void {
+    print(variableA / variableB)
+  }
+
+  method isGreaterThan20(): boolean {
+    if (age >= 20) {
+      return true;
+    }
+    return false;
+  }
+  method validateAge(): string {
+    if (age >= 20) {
+      return "I'm 20 or older than 20 years old.";
+    } else {
+      return "I'm under 20 years old.";
+    }
+  }
+
+  method loops(): void {
+    for (var i: integer = 0; i < variableC; i+=1) {
+      print(`Index value: ${i}`);
+    }
+
+    while (variableC >= 11) {
+      print(`variableC value: ${variableC}`);
+    }
+
+    do {
+      print(`variableC value: ${variableC}`);
+    } while(++variableC >= 11);
+  }
+}
