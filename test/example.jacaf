@@ -5,16 +5,16 @@ public class Example {
   var age: integer = 20;
 
   method sum(): void {
-    print(variableA + variableB)
+    print(variableA + variableB);
   }
   method subtract(): void {
-    print(variableA - variableB)
+    print(variableA - variableB);
   }
   method multiply(): void {
-    print(variableA * variableB)
+    print(variableA * variableB);
   }
   method divide(): void {
-    print(variableA / variableB)
+    print(variableA / variableB);
   }
 
   method isGreaterThan20(): boolean {

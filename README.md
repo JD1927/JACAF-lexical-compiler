@@ -1,6 +1,38 @@
-# JACAF Lexical Compiler
+# [Proyecto] : Compilador JACAF
 
-JACAF es un lenguaje de programación bastante tipado, tiene bases del lenguaje de programación Typescript y algunas adaptaciones para un mejor aprendizaje y legibilidad del código.
+## Integrantes
+
+- Juan David Aguirre Córdoba, **[juanaguirre237288@correo.itm.edu.co](mailto:juanaguirre237288@correo.itm.edu.co)**.
+- Andrés Felipe Aristizábal Velasquez, **[andresaristizabal22119@correo.itm.edu.co](mailto:andresaristizabal22119@correo.itm.edu.co)**.
+
+### Información adicional
+
+- **Programa:** Ingeniería de Sistemas.
+- **Semestre:** 8.
+- **Docente asesor:** Gabriel Taborda Blandon.
+- **Materia:** Compiladores.
+- **Video explicativo:** [Hello](hello.com);
+
+---
+
+## Compilador Léxico JACAF
+
+**JACAF** es un lenguaje de programación tipado, que tiene bases del lenguaje de programación **[Typescript](https://www.typescriptlang.org/)** con algunas adaptaciones para un mejor aprendizaje y comprensión del código.
+
+Este lenguaje tiene como propósito:
+
+1. Ayudar a todas las personas que quieran empezar en el mundo de la programación y requieran un lenguaje de programación para hacerlo.
+1. Fomentar el uso del idioma inglés dentro del desarrollo de software, es se debe a el inglés es importante dentro del ámbito de la computación y por qué no usarlo mientras se aprende la lógica de programación.
+
+### Problemática
+
+Cómo ayudar a las personas que están iniciando en el mundo de la programación a través de un lenguaje de programación que facilite la curva de aprendizaje y permita fomentar el uso del idioma inglés.
+
+### Solución
+
+Inicialmente, la creación del lenguaje JACAF, es decir, crear todo lo correspondiente a un lenguaje de programación o por lo menos sus bases para efectos del proyecto. Es importante aclarar que para usar JACAF se necesita un compilador que pueda interpretarlo.
+
+El propósito de este proyecto es mostrar cómo funciona un compilador sólo haciendo un análisis léxico, es decir que sólo se verifique que los valores de entrada coincidan o no con unas reglas predefinidas.
 
 ---
 

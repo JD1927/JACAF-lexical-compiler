@@ -1023,7 +1023,7 @@ case 15:
 /* rule 15 can match eol */
 YY_RULE_SETUP
 #line 47 "jacaf-compiler.l"
-{ printf("String with posible concatenation: %s\n", yytext); }
+{ printf("String with posible immersed concatenation: %s\n", yytext); }
 	YY_BREAK
 case 16:
 YY_RULE_SETUP
