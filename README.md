@@ -11,7 +11,7 @@
 - **Semestre:** 8.
 - **Docente asesor:** Gabriel Taborda Blandon.
 - **Materia:** Compiladores.
-- **Video explicativo:** [Hello](hello.com);
+- **Video explicativo:** [YouTube](https://youtu.be/jjacjwaDwlU);
 
 ---
 
